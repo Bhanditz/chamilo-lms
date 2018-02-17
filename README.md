@@ -6,6 +6,8 @@
 [![Code Consistency](https://squizlabs.github.io/PHP_CodeSniffer/analysis/chamilo/chamilo-lms/grade.svg)](http://squizlabs.github.io/PHP_CodeSniffer/analysis/chamilo/chamilo-lms/)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/166/badge)](https://bestpractices.coreinfrastructure.org/projects/166)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/88e934aab2f34bb7a0397a6f62b078b2)](https://www.codacy.com/app/chamilo/chamilo-lms?utm_source=github.com&utm_medium=referral&utm_content=chamilo/chamilo-lms&utm_campaign=badger)
+[![Backers on Open Collective](https://opencollective.com/chamilo/backers/badge.svg)](#backers)
+ [![Sponsors on Open Collective](https://opencollective.com/chamilo/sponsors/badge.svg)](#sponsors) 
 
 ## Installation
 
@@ -42,6 +44,38 @@ and our CONTRIBUTING.md file.
 In short, we ask you to send us Pull Requests based on a branch that you create
 with this purpose into your repository forked from the original Chamilo repository.
 
+### Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="graphs/contributors"><img src="https://opencollective.com/chamilo/contributors.svg?width=890&button=false" /></a>
+
+
 ## Documentation
 
 For more information on Chamilo, visit https://1.11.chamilo.org/documentation/index.html
+
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/chamilo#backer)]
+
+<a href="https://opencollective.com/chamilo#backers" target="_blank"><img src="https://opencollective.com/chamilo/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/chamilo#sponsor)]
+
+<a href="https://opencollective.com/chamilo/sponsor/0/website" target="_blank"><img src="https://opencollective.com/chamilo/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/chamilo/sponsor/1/website" target="_blank"><img src="https://opencollective.com/chamilo/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/chamilo/sponsor/2/website" target="_blank"><img src="https://opencollective.com/chamilo/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/chamilo/sponsor/3/website" target="_blank"><img src="https://opencollective.com/chamilo/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/chamilo/sponsor/4/website" target="_blank"><img src="https://opencollective.com/chamilo/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/chamilo/sponsor/5/website" target="_blank"><img src="https://opencollective.com/chamilo/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/chamilo/sponsor/6/website" target="_blank"><img src="https://opencollective.com/chamilo/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/chamilo/sponsor/7/website" target="_blank"><img src="https://opencollective.com/chamilo/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/chamilo/sponsor/8/website" target="_blank"><img src="https://opencollective.com/chamilo/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/chamilo/sponsor/9/website" target="_blank"><img src="https://opencollective.com/chamilo/sponsor/9/avatar.svg"></a>
+
+
