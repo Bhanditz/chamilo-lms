@@ -29,6 +29,7 @@
     "mathjax": "^2.7.2",
     "mediaelement": "^4.2.7",
     "moment": "^2.18.1",
+    "opencollective": "^1.0.3",
     "pwstrength-bootstrap": "^2.1.1",
     "qtip2": "^3.0.3",
     "select2": "^4.0.6-rc.1",
@@ -36,5 +37,13 @@
     "timeago": "^1.6.1",
     "webcamjs": "^1.0.24",
     "webpack-jquery-ui": "^1.0.0"
+  },
+  "collective": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/chamilo",
+    "logo": "https://opencollective.com/chamilo/logo.txt"
+  },
+  "scripts": {
+    "postinstall": "opencollective postinstall"
   }
 }
