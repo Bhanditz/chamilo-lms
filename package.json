@@ -21,7 +21,7 @@
     "fullcalendar": "3.1.0",
     "highlight.js": "^9.12.0",
     "image-map-resizer": "^1.0.3",
-    "jquery": "^3.0",
+    "jquery": "^3.5.0",
     "jquery-ui-timepicker-addon": "^1.6.3",
     "jquery.scrollbar": "^0.2.11",
     "less": "^2.7.2",
@@ -35,6 +35,12 @@
     "simplewebrtc": "^3.0.1",
     "timeago": "^1.6.1",
     "webcamjs": "^1.0.24",
-    "webpack-jquery-ui": "^1.0.0"
-  }
+    "webpack-jquery-ui": "^1.0.0",
+    "snyk": "^1.316.1"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
+  },
+  "snyk": true
 }
