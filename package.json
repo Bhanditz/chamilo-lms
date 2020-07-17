@@ -24,7 +24,7 @@
     "jquery": "^3.0",
     "jquery-ui-timepicker-addon": "^1.6.3",
     "jquery.scrollbar": "^0.2.11",
-    "less": "^2.7.2",
+    "less": "^3.0.2",
     "less-loader": "^4.0.5",
     "mathjax": "^2.7.2",
     "mediaelement": "^4.2.7",
@@ -35,6 +35,6 @@
     "simplewebrtc": "^3.0.1",
     "timeago": "^1.6.1",
     "webcamjs": "^1.0.24",
-    "webpack-jquery-ui": "^1.0.0"
+    "webpack-jquery-ui": "^2.0.0"
   }
 }
