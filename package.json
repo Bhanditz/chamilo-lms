@@ -19,7 +19,7 @@
     "font-awesome-webpack": "^0.0.5-beta.2",
     "fs": "0.0.1-security",
     "fullcalendar": "3.1.0",
-    "highlight.js": "^9.12.0",
+    "highlight.js": "^9.18.2",
     "image-map-resizer": "^1.0.3",
     "jquery": "^3.0",
     "jquery-ui-timepicker-addon": "^1.6.3",
