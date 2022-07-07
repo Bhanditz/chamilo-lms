@@ -28,7 +28,7 @@
     "less-loader": "^4.0.5",
     "mathjax": "^2.7.2",
     "mediaelement": "^4.2.7",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "pwstrength-bootstrap": "^2.1.1",
     "qtip2": "^3.0.3",
     "select2": "^4.0.6-rc.1",
