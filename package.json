@@ -29,7 +29,7 @@
     "mathjax": "^2.7.2",
     "mediaelement": "^4.2.7",
     "moment": "^2.18.1",
-    "pwstrength-bootstrap": "^2.1.1",
+    "pwstrength-bootstrap": "^3.0.8",
     "qtip2": "^3.0.3",
     "select2": "^4.0.6-rc.1",
     "simplewebrtc": "^3.0.1",
